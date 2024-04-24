@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jamuna 
+- 👀 I’m interested in AI,ML,Full Stack development.
+- 🌱 I’m currently learning different developmental tools.
